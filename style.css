@@ -1,6 +1,29 @@
 .navbar a {
     margin-right: 20px; /* Adjust the value to change the gap */
 }
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: darkblue;
+    text-shadow: 2px 2px 5px gray;
+}
 body{
     background-color: lightpink;
 }
+/* style.css */
+body {
+    background-color: lightblue;
+}
+
+.navbar a {
+    margin-right: 20px; 
+    text-decoration: none; 
+    color: darkblue;
+    font-size: 1.2em; 
+}
+
+.navbar a:last-child {
+    margin-right: 0;
+}
+        
+
