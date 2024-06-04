@@ -13,6 +13,7 @@ body{
 /* style.css */
 body {
     background-color: lightblue;
+    background-image:flower.jpeg;
 }
 
 .navbar a {
